@@ -22,4 +22,4 @@ All data we use will be from our own research through in-depth interviews with i
 
 Gagan Thind: gagant@uw.edu,
 Ibrar Aslam: ibrar24@uw.edu,
-Jose Santos: alarjos@uw.edu,
+Jose Santos: alarjos@uw.edu
