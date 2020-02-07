@@ -18,6 +18,10 @@ Interactive UX/UI design with the following documentation:
 
 All data we use will be from our own research through in-depth interviews with immigrants parents and teachers at local schools. 
 
+## Current Progress
+
+Thus far we have conducted some literature and market research. We are currently in the process of gathering insights from parents and teachers to guide us in development of the app. 
+
 ## Contact Info
 
 Gagan Thind: gagant@uw.edu,
