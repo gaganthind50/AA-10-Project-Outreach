@@ -1,3 +1,2 @@
-# Outreach
-Project Outreach: A Capstone Project
-Team Members: Gagan Thind, Ibrar Aslam, and Jose Santos
+# Problem Space
+Immigrant Populations and Access to Education 
